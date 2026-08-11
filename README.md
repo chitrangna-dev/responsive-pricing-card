@@ -7,6 +7,10 @@
 A clean, responsive pricing section built with pure HTML & CSS — three-tier layout, a highlighted "Popular" plan, smooth hover interactions, and a mobile-first responsive grid.
 </p>
 
+<p align="center">
+🌐 <a href="https://pricing-card-mauve.vercel.app/">Live Demo</a>
+</p>
+
 ---
 
 ## Preview
@@ -78,6 +82,14 @@ pricing-card/
 | ≤ 992px | 2-column grid (Enterprise card spans full width, centered) |
 | ≤ 768px | Single column, cards stacked |
 | ≤ 480px | Reduced padding, font-size, and badge sizing for small screens |
+
+---
+
+## Deployment
+
+Deployed on Vercel, connected to GitHub for automatic deployments on every push.
+
+🌐 Live Demo: [pricing-card-mauve.vercel.app](https://pricing-card-mauve.vercel.app/)
 
 ---
 
