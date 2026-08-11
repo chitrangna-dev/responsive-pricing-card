@@ -16,7 +16,7 @@ A clean, responsive pricing section built with pure HTML & CSS — three-tier la
 ## Preview
 
 <p align="center">
-  <img src="assets/preview.PNG" alt="Pricing Card Preview" width="70%">
+  <img src="assets/IMG_20260811_203232.jpg" alt="Pricing Card Preview" width="70%">
 </p>
 
 ---
