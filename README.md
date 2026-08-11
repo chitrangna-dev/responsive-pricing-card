@@ -38,8 +38,7 @@ A clean, responsive pricing section built with pure HTML & CSS — three-tier la
 ## Built With
 
 - HTML5
-- CSS3 — Grid, Flexbox, pseudo-elements, media queries
-- [Font Awesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome) — icons via CDN
+- CSS3 — Grid, Flexbox, pseudo-elements, media querie
 - Google Fonts — Manrope
 
 ---
